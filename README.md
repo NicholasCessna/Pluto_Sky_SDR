@@ -3,6 +3,23 @@ as possible from the SDR community. Resources on the Pluto Sky in particular are
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ***GENERAL DISCLAIMERS: For now and future***
 
 This software is for educational and research purposes only. The user is solely responsible for complying with all local laws and regulations, including those set by the FCC or equivalent authorities in your jurisdiction. 
